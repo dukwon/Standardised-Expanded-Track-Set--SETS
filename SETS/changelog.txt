@@ -1,3 +1,5 @@
+Version 2.2:
+    Add: LGVN and LGVE track type labels to concrete sleeper tracks.
 Version 2.1:
     Add: Website.
     Fix: Multivoltage trains not working on dual electified track.
